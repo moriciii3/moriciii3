@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 👋 Hi, I'm Bruno Morici
 
 ## 🚀 About Me
@@ -24,7 +23,7 @@ I enjoy collaborating with **creative and curious people**, exchanging knowledge
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-morici)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-morici-414719196)
 
 ---
 
@@ -89,6 +88,4 @@ I enjoy collaborating with **creative and curious people**, exchanging knowledge
 ---
 
 [![](https://visitcount.itsvg.in/api?id=moriciii3&icon=2&color=0)](https://visitcount.itsvg.in)
-
-EOF
 
